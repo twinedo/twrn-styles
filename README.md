@@ -1,5 +1,5 @@
 A Couple of style for **React Native** ,
-simply `import TWstyles from 'twrn-styles'` and use `TWRN.displayFlex` for `flex: 1`.
+simply `import TWstyles from 'twrn-styles'` and use `TWStyles.displayFlex` for `flex: 1`.
 You can contribute to this project to add more `styles`.
 
 # Installation
