@@ -145,11 +145,29 @@ const createdStyles = StyleSheet.create({
   row: {
     flexDirection: 'row',
   },
-  rowGap: {
+  rowGap4: {
+    rowGap: 4
+  },
+  rowGap8: {
     rowGap: 8,
   },
-  columnGap: {
+  rowGap12: {
+    rowGap: 12,
+  },
+  rowGap16: {
+    rowGap: 16,
+  },
+  columnGap4: {
+    columnGap: 4,
+  },
+  columnGap8: {
     columnGap: 8,
+  },
+  columnGap12: {
+    columnGap: 12,
+  },
+  columnGap16: {
+    columnGap: 16,
   },
   gap: {
     gap: 8,
@@ -211,6 +229,150 @@ const createdStyles = StyleSheet.create({
   },
   bgTransparent: {
     backgroundColor: 'transparent',
+  },
+  p0: {
+    padding: 0
+  },
+  p2: {
+    padding: 2
+  },
+  p4: {
+    padding: 4
+  },
+  p8: {
+    padding: 8
+  },
+  p10: {
+    padding: 10,
+  },
+  p12: {
+    padding: 12,
+  },
+  p14: {
+    padding: 14,
+  },
+  p16: {
+    padding: 16
+  },
+  px0: {
+    paddingHorizontal: 0
+  },
+  px2: {
+    paddingHorizontal: 2
+  },
+  px4: {
+    paddingHorizontal: 4
+  },
+  px8: {
+    paddingHorizontal: 8
+  },
+  px10: {
+    paddingHorizontal: 10,
+  },
+  px12: {
+    paddingHorizontal: 12,
+  },
+  px14: {
+    paddingHorizontal: 14,
+  },
+  px16: {
+    paddingHorizontal: 16
+  },
+  py0: {
+    paddingVertical: 0
+  },
+  py2: {
+    paddingVertical: 2
+  },
+  py4: {
+    paddingVertical: 4
+  },
+  py8: {
+    paddingVertical: 8
+  },
+  py10: {
+    paddingVertical: 10,
+  },
+  py12: {
+    paddingVertical: 12,
+  },
+  py14: {
+    paddingVertical: 14,
+  },
+  py16: {
+    paddingVertical: 16
+  },
+  m0: {
+    margin: 0
+  },
+  m2: {
+    margin: 2
+  },
+  m4: {
+    margin: 4
+  },
+  m8: {
+    margin: 8
+  },
+  m10: {
+    margin: 10,
+  },
+  m12: {
+    margin: 12,
+  },
+  m14: {
+    margin: 14,
+  },
+  m16: {
+    margin: 16
+  },
+  mx0: {
+    marginHorizontal: 0
+  },
+  mx2: {
+    marginHorizontal: 2
+  },
+  mx4: {
+    marginHorizontal: 4
+  },
+  mx8: {
+    marginHorizontal: 8
+  },
+  mx10: {
+    marginHorizontal: 10,
+  },
+  mx12: {
+    marginHorizontal: 12,
+  },
+  mx14: {
+    marginHorizontal: 14,
+  },
+  mx16: {
+    marginHorizontal: 16
+  },
+  my0: {
+    marginVertical: 0
+  },
+  my2: {
+    marginVertical: 2
+  },
+  my4: {
+    marginVertical: 4
+  },
+  my8: {
+    marginVertical: 8
+  },
+  my10: {
+    marginVertical: 10,
+  },
+  my12: {
+    marginVertical: 12,
+  },
+  my14: {
+    marginVertical: 14,
+  },
+  my16: {
+    marginVertical: 16
   },
 });
 
