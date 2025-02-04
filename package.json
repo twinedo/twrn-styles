@@ -1,6 +1,6 @@
 {
   "name": "twrn-styles",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "a couple of style for React Native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
