@@ -78,6 +78,12 @@ const createdStyles = StyleSheet.create({
   alignSelfStart: {
     alignSelf: 'flex-start',
   },
+  alignSelfCenter: {
+    alignSelf: 'center',
+  },
+  alignSelfEnd: {
+    alignSelf: 'flex-end',
+  },
   alignStart: {
     alignItems: 'flex-start',
   },
@@ -171,6 +177,12 @@ const createdStyles = StyleSheet.create({
   },
   gap: {
     gap: 8,
+  },
+  gap16: {
+    gap: 16,
+  },
+  gap20: {
+    gap: 20,
   },
   atBottom: {
     bottom: 0,
